@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/logo.png</file>
+        <file>images/logo@2x.png</file>
+        <file>qml/main.qml</file>
+        <file>qml/AuthRequest.qml</file>
+        <file>qml/AuthCode.qml</file>
+        <file>qml/AuthConfirm.qml</file>
+        <file>qml/styles/CustomBusyIndicatorStyle.qml</file>
+    </qresource>
+</RCC>
