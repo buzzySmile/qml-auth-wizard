@@ -6,3 +6,5 @@
 --->
 
 A simple authorization wizard demo that uses phone number and SMS code.
+
+![alt tag](https://github.com/buzzySmile/qml-auth-wizard/blob/e07dd593773610b8e0a35e092f81c84a062c47ab/images/auth-wizard-demo.gif?raw=true)
